@@ -19,7 +19,7 @@
       <guid>https://haradashinya.github.io/furodrive/posts/my-first-post/</guid>
       <description>I started to blog in English.
 I adopt HUGO to create a blog. HUGO is a static site generators. I impressed the speed of compile. And I upload posts to github.
-Basic Usage Create a post hugo new posts/xxx.md Preview hugo server -D Build static pages hugo -D </description>
+Basic Usage Create a post hugo new posts/xxx.md Preview hugo server -D Build static pages hugo -D Deploy cd public/ git init git remote add origin git@github.com:xxx git checkout -b gh-pages git add --all git commit -m &#39;initial commit&#39; git push origin gh-pages </description>
     </item>
     
   </channel>

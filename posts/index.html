@@ -60,6 +60,14 @@ And I upload posts to github.</p>
 <pre><code>hugo server -D
 </code></pre><h3 id="build-static-pages">Build static pages</h3>
 <pre><code>hugo -D
+</code></pre><h3 id="deploy">Deploy</h3>
+<pre><code>cd public/
+git init
+git remote add origin git@github.com:xxx
+git checkout -b gh-pages
+git add --all
+git commit -m 'initial commit'
+git push origin gh-pages
 </code></pre>
         </div>
         <div class="article-readmore"><a href="https://haradashinya.github.io/furodrive/posts/my-first-post/">Read more...</a></div>
