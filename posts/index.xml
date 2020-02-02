@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on furodrive</title>
-    <link>http://example.org/posts/</link>
+    <link>https://haradashinya.github.io/furodrive/posts/</link>
     <description>Recent content in Posts on furodrive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Feb 2020 17:06:39 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://haradashinya.github.io/furodrive/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://haradashinya.github.io/furodrive/posts/my-first-post/</link>
       <pubDate>Sun, 02 Feb 2020 17:06:39 +0900</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://haradashinya.github.io/furodrive/posts/my-first-post/</guid>
       <description>I started to blog in English.
 I adopt HUGO to create a blog. HUGO is a static site generators. I impressed the speed of compile. And I upload posts to github.
 Basic Usage Create a post hugo new posts/xxx.md Preview hugo server -D Build static pages hugo -D </description>
